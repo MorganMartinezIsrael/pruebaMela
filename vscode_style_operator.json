@@ -1,6 +1,7 @@
+{
 // agregar al archivo settings.json en VSCode
 
-"editor.tokenColorCustomizations": {
+"editor.tokenColorCustomizations": {//start
         "textMateRules": [
           {
             "scope": [
@@ -31,8 +32,10 @@
             }
           }
         ]
-      }
+      }//end
 
+
+}
 
 
       
